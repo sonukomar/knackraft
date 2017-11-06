@@ -1,0 +1,47 @@
+.social_bg{
+    background: url("../images/social-icon.cms");
+    background-repeat: no-repeat;
+    /* display: inline-block; */
+    width: 30px;
+    height: 23px;
+    float: right;
+}
+
+.social_bg:hover{
+    cursor: pointer;
+}
+
+#fb:hover{
+    background-position: 1px 1px;
+}
+#google:hover{
+    background-position: -48px 1px;
+}
+#twitter:hover{
+    background-position: -23px 1px;
+}
+#fb{
+    background-position: -372px -81px;
+}
+#google{
+    background-position: -424px -81px;
+}
+#twitter{
+    background-position: -398px -81px;
+}
+#instagram{
+    background-position: -478px -81px;
+}
+
+.navigation{
+    margin-top: 72px;
+}
+.navigation a{
+    margin-left:2%;
+    margin-top: 2%;
+}
+
+.item img{
+    height:220px;
+    width: 450px;
+}
